@@ -19,17 +19,12 @@ Recently, I've been into being in nature, bike riding, working out, and story ba
 **Something unique about yourself?**  
 I am ethnically diverse, I am 5 different ethnicities.
 
-**Update your iLearn/Canvas profile.**  
-Done
-
 ## Photo: 
-**Include a photo of your latest favorite activity, vacation, or mission experience. Explain the photo.**  
 ![Biking](bikehill.jpg)
 
 This was me riding my bike this Monday during sunset. This is the road that goes up to the temple, South 2nd East.
 
-## Resume: 
-**Upload your resume to your GitHub directory, along with your cover letter, and provide a link.**  
+## Resume:   
 [Resume Link](https://github.com/kupukt/CSE397/blob/main/Resume_Kupu_Tuifua_2024.pdf)  
 
 
