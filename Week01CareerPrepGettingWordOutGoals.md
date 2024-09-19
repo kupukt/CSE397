@@ -2,16 +2,17 @@
 
 ## SMART Goals Research:
 **What is a SMART goal?**  
-<!-- Provide a brief definition of SMART goals after your research -->
+A SMART goal is a goal that is Specific, meaning it's clearly defined, Measurable, so I can track progress, Achievable, meaning it's realistic, Relevant, so it aligns with what I want to accomplish, and Time-bound, meaning it has a deadline. This helps me stay focused and work toward something I know I can reach within a set timeframe.
 
 **Sources:**
-1. [Source 1](link)
-2. [Source 2](link)
-3. [Source 3](link)
+1. [Smart Goal Inventor]((https://www.mindtools.com/a4wo118/smart-goals)
+2. [SMART Goals Overall](https://www.forbes.com/advisor/business/smart-goals/)
+3. [How To Write SMART Goals](https://www.smartsheet.com/blog/essential-guide-writing-smart-goals)
 
 ## Resume Improvements:
 **Classmates' Posts Review**  
-<!-- List the classmates' posts you reviewed and identify 2-4 novel items for resume or LinkedIn improvement -->
+- I need to make sure to fill out my resume with more skills and update it to current standings
+- Putting my education at the bottom to highlight my better achievments such as my internships and projects.
 
 **Improvements I Identified:**
 - Novel Approach 1
