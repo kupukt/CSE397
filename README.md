@@ -24,8 +24,7 @@ Done
 
 ## Photo: 
 **Include a photo of your latest favorite activity, vacation, or mission experience. Explain the photo.**  
-![Biking](![bikehill](https://github.com/user-attachments/assets/8616a68b-491a-48d1-a4ed-306c0278060d)
-)
+![Biking]()
 
 This was me riding my bike this Monday during sunset. This is the road that goes up to the temple, South 2nd East.
 
