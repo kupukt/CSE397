@@ -34,14 +34,12 @@ This was me riding my bike this Monday during sunset. This is the road that goes
 
 
 **List 2-3 main features or elements that you used to make your resume unique:**  
-- Feature 1
-- Feature 2
-- Feature 3
+A lot of action verbs.
+Putting my job and projects first.
+Show what I am truly strong in.
 
 ## LinkedIn: 
 **And a link to your professional networking website.**  
 [LinkedIn Profile](https://www.linkedin.com/in/kuputuifua/)  
 
 
-## Check in the file, and provide a link to your file.  
-<!-- Mention the GitHub repository where you've saved this file -->
