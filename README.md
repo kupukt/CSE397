@@ -30,8 +30,8 @@ This was me riding my bike this Monday during sunset. This is the road that goes
 
 ## Resume: 
 **Upload your resume to your GitHub directory, along with your cover letter, and provide a link.**  
-[Resume Link](https://github.com/your-repo/resume.pdf)  
-<!-- Replace with your actual resume link -->
+[Resume Link](https://github.com/kupukt/CSE397/blob/main/Resume_Kupu_Tuifua_2024.pdf)  
+
 
 **List 2-3 main features or elements that you used to make your resume unique:**  
 - Feature 1
