@@ -1,11 +1,11 @@
 # CSE397
 
 # Name: 
-<!-- Your name here -->
+Kupu Tuifua
 
 ## Background: 
 **Who are you?**  
-I am Kupu Tuifua, I am a lover of all things.
+I am Kupu Tuifua, I am a lover of all things outside.
 
 ## Home: 
 **Where are you from?**  
@@ -13,7 +13,7 @@ I am from Ewa Beach, Hawaii. I live on the island of Oahu
 
 ## Interests: 
 **What are your interests?**  
-Recently, I've been into bike riding, working out, and story based video games like Life is Strange.
+Recently, I've been into being in nature, bike riding, working out, and story based video games like Life is Strange.
 
 ## Unique: 
 **Something unique about yourself?**  
