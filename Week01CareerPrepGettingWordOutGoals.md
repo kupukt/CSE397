@@ -41,7 +41,4 @@ I will be able to flesh out my resume. I will be adding to my skills portion, an
 **SMART Goal 2: Based on Job Search**
 Learn C++ fluently, as in be able to understand syntax, data structures, and object oriented programming in this language. I will use free tutorials and documents to learn this and I will be able to be fluent by the end of this semester. 
 
-## Check-in:
-**Upload this file to GitHub and post the link below:**
-[Link to file](https://github.com/your-repo/Week01CareerPrepGettingWordOutGoals.md)
 
